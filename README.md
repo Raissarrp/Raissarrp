@@ -23,7 +23,7 @@
 
 ---
 
-### 🐍 A cobrinha comendo meus commits:
+### 🐍 Commits
 
 <p align="center">
   <img src="https://github.com/Raissarrp/Raissarrp/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧁 Um toque fofo no final...
+### 🧁Valeuu
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
