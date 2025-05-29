@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Oii! Eu sou a Raissa!! 💻💖</h1>
 
-<!--
-**Raissarrp/Raissarrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+aprendiz;&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Sobre mim
+
+- 💼 Assistente de TI apaixonada por Processos e Inovação!!
+- 📊 Trabalho com Power BI, Power automate e Power Apps.
+- 💡 Resolvo problemas de forma dinamica e com criatividade.
+
+---
+
+### 📈 Meus stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raissarrp&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Raissarrp&theme=radical" />
+</p>
+
+---
+
+### 🐍 A cobrinha comendo meus commits:
+
+<p align="center">
+  <img src="https://github.com/Raissarrp/Raissarrp/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
+</p>
+
+---
+
+### 🧁 Um toque fofo no final...
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
+</p>
+
+<p align="center">Obrigada pela visita! 💖✨</p>
