@@ -26,8 +26,9 @@
 ### 🐍 Commits
 
 <p align="center">
-  <img src="https://github.com/Raissarrp/Raissarrp/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
+  <img src="https://raw.githubusercontent.com/Raissarrp/Raissarrp/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
