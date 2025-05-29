@@ -8,7 +8,7 @@
 
 ### 🌟 Sobre mim
 
-- 💼 Assistente de TI apaixonada por Processos e Inovação!!
+- 💼 Assistente de TI apaixonada por Inovação!!
 - 📊 Trabalho com Power BI, Power automate e Power Apps.
 - 💡 Resolvo problemas de forma dinamica e com criatividade.
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧁Valeuu
+### 🧁Volte sempre <3
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
