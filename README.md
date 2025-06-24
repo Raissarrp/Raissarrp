@@ -1,13 +1,5 @@
 <h1 align="center">Oii! Eu sou a Raissa!! 💻💖</h1>
-
 ---
-
-### 🐾
-
----
-
-### 🌟 Sobre mim
-
 - Sempre procurando coisas novas...
 ---
 
