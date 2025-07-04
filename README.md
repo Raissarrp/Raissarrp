@@ -1,7 +1,5 @@
 <h1 align="center">Oii! Eu sou a Raissa!! 💻💖</h1>
 ---
-- Sempre procurando coisas novas...
----
 
 ### 📈 Status:
 
