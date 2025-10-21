@@ -17,16 +17,4 @@
 
 <p align="center">Obrigada pela visita! 💖✨</p>
 
----
-
-### Quantas pessoas ja passaram aqui?:
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raissarrp.Raissarrp&colors=ee82ee,ffa6ff,cc66cc" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/448721c6-7a6e-4df5-a42b-61687a866d33" alt="ფიშოICanSeeYouGIF" />
-</p>
-
 
